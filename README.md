@@ -53,7 +53,7 @@ To develop a system that:
 - Performs fuzzy deduplication using normalized names
 
 ### 5. Matching
-- Calls the Companies House `search/companies` API for each name (sampled to 100 records to stay under rate limits)
+- Calls the Companies House `search/companies` API for each name (sampled to 293 records to stay under rate limits and this was the max length of data frame)
 
 ### 6. Enrichment
 - Adds company status, creation date, CH company number, and registered address
