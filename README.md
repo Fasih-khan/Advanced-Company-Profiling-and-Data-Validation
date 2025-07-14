@@ -20,7 +20,7 @@ To develop a system that:
 | File | Description |
 |------|-------------|
 | `Advanced_Company_Profiling.ipynb` | Main Jupyter notebook with all steps and visualizations |
-| `Company.csv` | Sample input dataset containing UK companies |
+| `CompanyV2 (July 2025).csv` | Sample input dataset containing UK companies |
 | `README.md` | You're reading it! Project overview and instructions |
 
 ---
